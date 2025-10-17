@@ -20,6 +20,8 @@ public class Prueba_Arimetica {
 
         //
         System.out.println("\n*** Objeto 2 ***");
+
+
         Arimetica arimetica2 = new Arimetica(10,30);
 
         arimetica2.sumar();
