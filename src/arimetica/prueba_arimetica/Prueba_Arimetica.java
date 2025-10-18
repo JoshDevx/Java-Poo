@@ -1,4 +1,4 @@
-package prueba_arimetica;
+package arimetica.prueba_arimetica;
 import arimetica.Arimetica;
 
 public class Prueba_Arimetica {
